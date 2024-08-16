@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Momeen Hossain Rony</h1>
 <h3 align="center">A committed full-stack developer from Bangladesh, highly skilled in ASP.NET.</h3>
 
+ <p align='center'>
+    <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  </p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotnetmomeen&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetmomeen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotnetmomeen" alt="dotnetmomeen" /></a> </p>
