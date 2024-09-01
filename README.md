@@ -54,6 +54,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotnetmomeen" alt="dotnetmomeen" /></a> </p>
 
+
+<!-- GitHub Profile Trophies -->
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-profile-trophy.vercel.app/?username=dotnetmomeen&theme=gruvbox&row=1&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="dotnetmomeen" />
+    </a>
+</p>
+
+
+
 <p align="left"> <a href="https://twitter.com/dotnetmomeen" target="blank"><img src="https://img.shields.io/twitter/follow/dotnetmomeen?logo=twitter&style=for-the-badge" alt="dotnetmomeen" /></a> </p>
 
 
