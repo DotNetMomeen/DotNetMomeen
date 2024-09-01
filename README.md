@@ -49,3 +49,26 @@
 <!-- Momeen Hossain Rony (DotNetMomeen) -->
 
 <hr/>
+
+
+
+<hr/>
+<!-- Momeen Hossain Rony (DotNetMomeen) -->
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <br>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" /> </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" /> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" /> </a> <br>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" /> </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" /> </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" /> </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+</div>
+<!-- Momeen Hossain Rony (DotNetMomeen) -->
+
+<hr/>
