@@ -2,6 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Momeen+Hossain+Rony!;" />
 </h1>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=El+Messiri&weight=800&size=35&pause=1000&color=4968F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;Momeen+Hossain+Rony" alt="Typing SVG" /></a>
+
+
+
 <h3 align="center">A committed full-stack developer from Bangladesh, highly skilled in ASP.NET.</h3>
  <p align='center'>
     <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
