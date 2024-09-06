@@ -11,6 +11,38 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dotnetmomeen&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetmomeen" /> </p>
 
+<h1>👨‍💻 Momeen Hossain Rony – Full Stack Web Developer</h1>
+
+<p>
+  I am a dedicated and versatile <strong>Full Stack Web Developer</strong> with extensive experience in building dynamic and responsive web applications. My technical expertise spans both front-end and back-end technologies, enabling me to deliver comprehensive and scalable solutions. I have a strong foundation in software development and a passion for learning new technologies.
+</p>
+
+<h2>💼 Expertise:</h2>
+<ul>
+  <li><strong>Database Management:</strong> Proficient in MS SQL Server, ensuring efficient data storage, retrieval, and management for complex applications.</li>
+  <li><strong>Back-End Development:</strong> Specialized in C#, ADO.NET, ASP.NET MVC, and ASP.NET Core frameworks. In-depth knowledge of Web API and Web API Core for building RESTful services.</li>
+  <li><strong>Front-End Development:</strong> Skilled in HTML, CSS, jQuery, and Bootstrap for creating clean, responsive, and user-friendly interfaces.</li>
+  <li><strong>JavaScript Frameworks:</strong> Hands-on experience in Angular and React for interactive and high-performing web applications.</li>
+  <li><strong>Cross-Platform Development:</strong> Experienced in MAUI for building multi-platform native applications with a shared codebase.</li>
+</ul>
+
+<h2>🔧 Full-Stack Proficiency:</h2>
+<p>
+  My full-stack expertise enables me to manage both client and server-side development seamlessly. From designing intuitive user interfaces to implementing robust back-end logic, I ensure a smooth flow of data and efficient processing. My goal is to create solutions that are not only functional but also optimized for performance.
+</p>
+
+<h2>🌟 Strengths:</h2>
+<ul>
+  <li>Excellent problem-solving skills and the ability to think critically.</li>
+  <li>A keen eye for detail, ensuring the delivery of high-quality code.</li>
+  <li>Strong collaboration and communication skills to work effectively in cross-functional teams.</li>
+</ul>
+
+<p>🚀 I am always eager to embrace new challenges and continue growing in the ever-evolving field of web development. Let’s build something amazing together!</p>
+
+
+
+
 <h3 align="center">⚡ My Statistics ⚡</h3>
 <p align="center">
 <table align="center">
