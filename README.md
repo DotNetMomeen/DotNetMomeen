@@ -68,10 +68,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=dotnetmomeen&theme=dark&row=1&column=4&margin-w=15&margin-h=15" alt="dotnetmomeen" />
     </a>
 </p>
-
-
-
-
 <p align="left"> <a href="https://twitter.com/dotnetmomeen" target="blank"><img src="https://img.shields.io/twitter/follow/dotnetmomeen?logo=twitter&style=for-the-badge" alt="dotnetmomeen" /></a> </p>
 
 
@@ -101,6 +97,25 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance - dotnetmomeen" height="30" width="40" />
     </a>
 </p>
+
+
+<h2 align="center">Connect with Me !! 🤝</h2> 
+
+<p align="center">
+<a href="https://github.com/dotnetmomeen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/dotnetmomeen" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/DotNetMomeen" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:dotnetmomeen@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
+
+
 
 <hr/>
 
