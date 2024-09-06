@@ -70,7 +70,7 @@
 </p>
 
 
-<h2 align="center">Connect with Me !! 🤝</h2> 
+<h2 align="center">🤝 Connect with Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/dotnetmomeen" target="_blank">
