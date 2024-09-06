@@ -68,35 +68,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=dotnetmomeen&theme=dark&row=1&column=4&margin-w=15&margin-h=15" alt="dotnetmomeen" />
     </a>
 </p>
-<p align="left"> <a href="https://twitter.com/dotnetmomeen" target="blank"><img src="https://img.shields.io/twitter/follow/dotnetmomeen?logo=twitter&style=for-the-badge" alt="dotnetmomeen" /></a> </p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://dribbble.com/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble - dotnetmomeen" height="30" width="40" />
-    </a>
-    <a href="https://www.behance.net/dotnetmomeen" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance - dotnetmomeen" height="30" width="40" />
-    </a>
-</p>
 
 
 <h2 align="center">Connect with Me !! 🤝</h2> 
