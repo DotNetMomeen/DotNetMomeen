@@ -10,12 +10,9 @@
     <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
   <!-- GitHub Profile Subtittle End -->
-
-    <!-- GitHub Profile Account View Start -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dotnetmomeen&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetmomeen" /> </p>
    <!-- GitHub Profile Account View End -->
-
-       <!-- GitHub Profile Account Description Start -->
+   
 <p>
   I am a dedicated and versatile <strong>Full Stack Web Developer</strong> with extensive experience in building dynamic and responsive web applications. My technical expertise spans both front-end and back-end technologies, enabling me to deliver comprehensive and scalable solutions. I have a strong foundation in software development and a passion for learning new technologies.
 </p>
@@ -43,9 +40,6 @@
 
 <p>🚀 I am always eager to embrace new challenges and continue growing in the ever-evolving field of web development. Let’s build something amazing together!</p>
 
-       <!-- GitHub Profile Account Description End -->
-
-       <!-- GitHub Profile Account Statistics Start -->
 <h3 align="center">⚡ My Statistics ⚡</h3>
 <p align="center">
 <table align="center">
@@ -67,8 +61,6 @@
 
 <hr/>
        <!-- GitHub Profile Account Statistics End -->
-
-              <!-- GitHub Profile Account Languages-Frameworks-Tools Start -->
 
 
 <hr/>
