@@ -11,8 +11,6 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dotnetmomeen&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetmomeen" /> </p>
 
-<h1>👨‍💻 Momeen Hossain Rony – Full Stack Web Developer</h1>
-
 <p>
   I am a dedicated and versatile <strong>Full Stack Web Developer</strong> with extensive experience in building dynamic and responsive web applications. My technical expertise spans both front-end and back-end technologies, enabling me to deliver comprehensive and scalable solutions. I have a strong foundation in software development and a passion for learning new technologies.
 </p>
